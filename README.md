@@ -1,4 +1,4 @@
-![Screenshot 2024-04-13 082219](https://github.com/ArunJ03/Ex-04/assets/131673036/3d32967e-9c56-49bc-b28d-e7997247ff69)## SECURE HASH FUNCTION (SHA)
+## SECURE HASH FUNCTION (SHA)
 ## DATE :
 ## AIM:
 Develop a program to implement Secure Hash Algorithm (SHA-1)
