@@ -1,4 +1,4 @@
-## SECURE HASH FUNCTION (SHA)
+![Screenshot 2024-04-13 082219](https://github.com/ArunJ03/Ex-04/assets/131673036/3d32967e-9c56-49bc-b28d-e7997247ff69)## SECURE HASH FUNCTION (SHA)
 ## DATE :
 ## AIM:
 Develop a program to implement Secure Hash Algorithm (SHA-1)
@@ -92,18 +92,8 @@ return buf.toString(); }
 }
 ```
 ## OUTPUT:
-```
-C:\Program Files\Java\jdk1.6.0_20\bin>javac SHA1.java
-C:\Program Files\Java\jdk1.6.0_20\bin>java SHA1
-Message digest object info:
-Algorithm = SHA1
-Provider = SUN version 1.6
-ToString = SHA1 Message Digest from SUN, <initialized>
-SHA1("") = DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
-SHA1("abc") = A9993E364706816ABA3E25717850C26C9CD0D89D
-SHA1("abcdefghijklmnopqrstuvwxyz") =
-32D10C7B8CF96570CA04CE37F2A19D84240D3A89
-```
+![Screenshot 2024-04-13 082219](https://github.com/ArunJ03/Ex-04/assets/131673036/173537ee-ea59-4791-8b37-e5b44f72e5c9)
+
 ## RESULT:
 Thus SHA was implemented successfully.
 
@@ -224,7 +214,9 @@ signature\n ");
 }
 ```
 ## OUTPUT:
-![image](https://github.com/IsaacAIML2023/Ex-04/assets/158465339/337034c5-ea1c-4332-a753-7c5b679325f2)
+![Screenshot 2024-04-13 082817](https://github.com/ArunJ03/Ex-04/assets/131673036/14259740-478b-4980-a6f4-66e3bde0b398)
+![Screenshot 2024-04-13 082725](https://github.com/ArunJ03/Ex-04/assets/131673036/ed4497f7-9d8e-4315-8f59-94b06e0fd948)
+
 
 ## RESULT:
 Thus program to implement the signature scheme named digital signature standard (Euclidean Algorithm) is implementeds successfully.
